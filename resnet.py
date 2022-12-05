@@ -1,4 +1,3 @@
-"This code is partially derived from the following websites and articles:"
 "https://arxiv.org/pdf/1512.03385.pdf"
 "https://data-flair.training/blogs/cats-dogs-classification-deep-learning-project-beginners/"
 
