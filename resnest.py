@@ -1,5 +1,3 @@
-"This code is partially derived from the following websites and articles:"
-"https://github.com/zhanghang1989/ResNeSt"
 """""@article{zhang2020resnest,
 title={ResNeSt: Split-Attention Networks},
 author={Zhang, Hang and Wu, Chongruo and Zhang, Zhongyue and Zhu, Yi and Zhang, Zhi and Lin, Haibin and Sun, Yue and He, Tong and Muller, Jonas and Manmatha, R. and Li, Mu and Smola, Alexander},
