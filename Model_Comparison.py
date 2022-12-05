@@ -1,5 +1,4 @@
 "This code is partially derived from the following websites and articles:"
-"https://data-flair.training/blogs/cats-dogs-classification-deep-learning-project-beginners/"
 
 import numpy as np
 import pandas as pd
