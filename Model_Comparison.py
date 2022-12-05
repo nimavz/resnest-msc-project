@@ -1,5 +1,3 @@
-"This code is partially derived from the following websites and articles:"
-
 import numpy as np
 import pandas as pd
 from tensorflow.keras.preprocessing.image import ImageDataGenerator,load_img
