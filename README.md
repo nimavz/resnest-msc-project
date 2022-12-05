@@ -5,7 +5,7 @@ Please read the "README" file for further information and instructions on how to
 .\
 .\
 Can you decide which of these faces are "REAL" or "FAKE"?!\
-![DeepFAKE](/deepfake.png)\
+![DeepFAKE](/deepfake[1].png)\
 This project aims to detect these fake facial images using deep learning methods with the acuracy of 97 percent.\
 .\
 .\
